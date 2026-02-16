@@ -1,3 +1,4 @@
 
-- [Kubernetes Cluster Architecture](https://github.com/Salman9193/kubernetes-documentation/blob/main/cluster-architecture.md)
-- [Docker vs Containerd](https://github.com/Salman9193/kubernetes-documentation/blob/main/docker-vs-containerd.md)
+- [Kubernetes Cluster Architecture](cluster-architecture.md)
+- [Docker vs Containerd](docker-vs-containerd.md)
+- [ETCD for Beginners](etcd-for-beginners.md)
